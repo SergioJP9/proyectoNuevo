@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+<h1> esto es un h1 </h1>
+<h1> esto es otro h1 </h1>
+
+<b> Este es un texto en negrita </b>
+
+
+<img src="images/garfiel.jpg" alt="HTML5 Icon" width="128" height="128">
+
+<img src="images/gato.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
+
+<img src="images/tom.png" alt="HTML5 Icon" style="width:128px;height:128px;">
+
+</body>
+</html>
